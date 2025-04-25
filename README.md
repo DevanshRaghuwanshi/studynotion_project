@@ -87,9 +87,9 @@ FRONTEND_URL=http://localhost:3000
 
 <h2>Screenshots</h2>
 <div class="screenshots">
-  <img src="images/screenshot1.png" alt="Login page">
-  <img src="images/screenshot2.png" alt="home page">
-  <img src="images/screenshot3.png" alt="Instructor Course">
+  <img src="public/screenshot1.png" alt="Login page">
+  <img src="public/screenshot2.png" alt="home page">
+  <img src="public/screenshot3.png" alt="Instructor Course">
 </div>
 
 </body>
